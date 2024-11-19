@@ -1,0 +1,66 @@
+﻿ADM1_EN,ADM1_PCODE,site,platform,other_platforms,cdc,longitude,latitude,county_name
+Baringo,KE030,,,,No,,,Baringo
+Bomet,KE036,,,,No,,FBS,Bomet
+Bungoma,KE039,,,,No,,,Bungoma
+Busia,KE040,Busia CRH,IFBS,,Yes,34.10522044,0.460208613,Busia
+Busia,KE040,,EBS,,Yes,,,Busia
+Elgeyo-Marakwet,KE028,,,,No,,,Elgeyo-Marakwet
+Embu,KE014,,,,No,,,Embu
+Garissa,KE007,Garissa CRH,IFBS,,No,39.65259,-0.44861,Garissa
+Garissa,KE007,Dadaab Refugee Camp,SARI/ILI,,No,40.2959156,0.194748279,Garissa
+Homa Bay,KE043,,,,No,,,Homa Bay
+Isiolo,KE011,Eremet Health Facility,PBIDS,,No,37.58249627,0.36284681,Isiolo
+Kajiado,KE034,Loitoktok SCRH,IFBS,,No,37.50474632,-2.924156885,Kajiado
+Kakamega,KE037,Kakamega CRH,SARI/ILI,,No,34.76107817,0.275284781,Kakamega
+Kericho,KE035,,,,No,,,Kericho
+Kiambu,KE022,,,,No,,AMR,Kiambu
+Kilifi,KE003,,,,No,,SARI/ILI,Kilifi
+Kirinyaga,KE020,,,,No,,BIDS,Kirinyaga
+Kisii,KE045,,,,No,,,Kisii
+Kisumu,KE042,JOOTRH,IFBS,,No,34.77180193,-0.088731908,Kisumu
+Kitui,KE015,,,,No,,,Kitui
+Kwale,KE002,,,,No,,SARI/ILI,Kwale
+Laikipia,KE031,,,,No,,BIDS,Laikipia
+Lamu,KE005,,,,No,,,Lamu
+Machakos,KE016,Machakos CRH,AMR,,No,37.26635388,-1.522904802,Machakos
+Makueni,KE017,Makueni CRH,IFBS,,No,37.62856373,-1.782931031,Makueni
+Mandera,KE009,,,,No,,,Mandera
+Marsabit,KE010,Marsabit CRH,IFBS,SARI/ILI,No,37.99099927,2.323917518,Marsabit
+Marsabit,KE010,Marsabit CRH,SARI/ILI,IFBS,No,37.99099927,2.323917518,Marsabit
+Meru,KE012,,EBS,,Yes,,,Meru
+Migori,KE044,Migori CRH,IFBS,,No,34.47727,-1.06283,Migori
+Mombasa,KE001,Coast GTRH,IFBS,SARI/ILI,Yes,39.67392245,-4.048848059,Mombasa
+Mombasa,KE001,Coast GTRH,SARI/ILI,IFBS,No,39.67399245,-4.045884806,Mombasa
+Mombasa,KE001,,EBS,,Yes,,,Mombasa
+Murang'a,KE021,,,,No,,,Murang'a
+Nairobi,KE047,Kenyatta NH,IFBS,"SARI/ILI, AMR",Yes,36.8070006,-1.301032844,Nairobi
+Nairobi,KE047,Mama Lucy Hospital,IFBS,,Yes,36.89897987,-1.273826654,Nairobi
+Nairobi,KE047,Tabitha Medical Clinic,PBIDS,,Yes,36.78008565,-1.314207628,Nairobi
+Nairobi,KE047,Kenyatta NH,SARI/ILI,"IFBS, AMR",Yes,36.8070006,-1.301032844,Nairobi
+Nairobi,KE047,,EBS,,Yes,,,Nairobi
+Nairobi,KE047,Kenyatta NH,AMR,"IFBS, SARI/ILI",Yes,36.8070006,-1.301032844,Nairobi
+Nairobi,KE047,MP Shah Hospital,AMR,,Yes,36.81159347,-1.260679799,Nairobi
+Nakuru,KE032,Nakuru CRH,IFBS,"SARI/ILI, AMR",Yes,36.08019196,-0.302326748,Nakuru
+Nakuru,KE032,Nakuru CRH,SARI/ILI,"IFBS, AMR",Yes,36.08019196,-0.302326748,Nakuru
+Nakuru,KE032,,EBS,,Yes,,,Nakuru
+Nakuru,KE032,Nakuru CRH,AMR,"IFBS, SARI/ILI",Yes,36.08019196,-0.302326748,Nakuru
+Nandi,KE029,,,,No,,,Nandi
+Narok,KE033,,,,No,,,Narok
+Nyamira,KE046,,,,No,,,Nyamira
+Nyandarua,KE018,,,,No,,,Nyandarua
+Nyandarua,KE018,,,,No,,,Nyandarua
+Nyandarua,KE018,,,,No,,,Nyandarua
+Nyeri,KE019,Nyeri CRH,SARI/ILI,,No,36.96305036,-0.421081567,Nyeri
+Samburu,KE025,,,,No,,,Samburu
+Siaya,KE041,St. Elizabeth Lwak Mission Hospital,PBIDS,,Yes,34.34989881,-0.129700266,Siaya
+Siaya,KE041,Siaya CRH,SARI/ILI,,No,34.28704474,0.063721667,Siaya
+Siaya,KE041,,EBS,,Yes,,,Siaya
+Taita Taveta,KE006,,,,No,,,Taita Taveta
+Tana River,KE004,,,,No,,,Tana River
+Tharaka,KE013,,,,No,,,Tharaka
+Trans Nzoia,KE026,,,,No,,,Trans Nzoia
+Turkana,KE023,Kakuma Refugee Camp,SARI/ILI,,No,34.84085963,3.739172022,Turkana
+Uasin Gishu,KE027,,,,No,,,Uasin Gishu
+Vihiga,KE038,,,,No,,,Vihiga
+Wajir,KE008,,,,No,,,Wajir
+West Pokot,KE024,Kapenguria CRH,IFBS,,No,35.12123732,1.237928462,West Pokot
